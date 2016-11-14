@@ -1,0 +1,21 @@
+New log file opened at Thu Nov 10 11:08:00 IST 2016 by 4736@srikanthSB-pc
+Sending msg to client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: C:\Users\Srikanth\play-java\.sbtserver\connections\master.log))
+Sending msg to client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: C:\Users\Srikanth\play-java\.sbtserver\master.log))
+Sending msg to client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b: DetachedLogEvent(LogMessage(debug,sbt client logs are in: C:\Users\Srikanth\play-java\.sbtserver\connections\play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b.log))
+Reading next message from client.
+Got request: ListenToEvents()
+Reading next message from client.
+Sending msg to client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b: (3,ReceivedResponse())
+Got request: UnlistenToEvents()
+Reading next message from client.
+Sending msg to client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b: (4,ReceivedResponse())
+Got request: ListenToValue(AttributeKey[play.forkrun.protocol.ForkConfig]("playForkConfig") in Scope(Build: file:/C:/Users/Srikanth/play-java/, , Project: ProjectReference(file:/C:/Users/Srikanth/play-java/,root)))
+Reading next message from client.
+Got request: UnlistenToValue(AttributeKey[play.forkrun.protocol.ForkConfig]("playForkConfig") in Scope(Build: file:/C:/Users/Srikanth/play-java/, , Project: ProjectReference(file:/C:/Users/Srikanth/play-java/,root)))
+Reading next message from client.
+Client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b EOF, shutting down.
+Stopping client.
+Client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b thread exiting.
+Dropping message (5,ReceivedResponse()) to dead client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b
+Dropping message (6,ReceivedResponse()) to dead client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b
+Dropping message (0,ReceivedResponse()) to dead client play-fork-run-705896da-9b64-40ce-90a4-ccb27e21481b
